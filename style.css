@@ -13,6 +13,13 @@ h1 {
     font-size: 4em;
     text-transform: uppercase;
 }
+hr {
+    margin: 20px auto;
+    color: #ff6382;
+    border: 3px solid #ff6382;
+    max-width: 65px;
+    opacity: 1;  
+}
 .btn {
     border-radius: 300px;
     text-transform: uppercase;
